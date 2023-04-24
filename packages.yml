@@ -1,0 +1,5 @@
+packages:
+  - git: "https://github.com/arnoN7/usage1.git"
+    revision: v0 
+  - git: "https://github.com/arnoN7/usage2.git"
+    revision: v1 
